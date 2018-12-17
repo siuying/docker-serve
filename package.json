@@ -1,0 +1,15 @@
+{
+  "name": "serve-docker",
+  "version": "1.0.0",
+  "description": "Use [zeit serve](https://github.com/zeit/serve) to host a folder on using docker.",
+  "main": "index.js",
+  "dependencies": {
+    "serve": "^10.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "Francis Chong",
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+{
+  "public": "public",
+  "unlisted": [
+    ".DS_Store",
+    ".gitignore"
+  ]
+}
